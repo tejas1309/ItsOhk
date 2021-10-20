@@ -65,7 +65,7 @@ html, body{
 
 .jumbotron {
   padding: 1rem;
-  border-radius = 0;
+  border-radius: 0;
 }
 
 .padding{
@@ -126,9 +126,10 @@ margin: 1rem;
 }
 
 .fa-youtube:hover ,
-.fa-facebook: hover{
+.fa-facebook:hover{
   color: #d5d5d5;
 }
+
 .fa-instagram {
   color : #bc2a8d;
 }
